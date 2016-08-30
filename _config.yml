@@ -19,5 +19,8 @@ navigation:
   - name: Dental Implants in Bristol
     id: c5411cc6-b26a-42ab-a538-8f15105bc9c8
     type: content
+  - name: GA for Dental Procedures
+    id: 5e0a6112-ac02-4480-a0ea-417176bc94d1
+    type: content
 title: Dentist in Bristol
 description: Complete Dental  Care
