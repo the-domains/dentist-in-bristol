@@ -25,5 +25,8 @@ navigation:
   - name: Crowns and Bridges
     id: 9460fc63-5ea5-4a47-9a8f-107f1207fe46
     type: content
+  - name: Team
+    id: d9db5e07-06e0-4a14-97c2-0da1fd4e1832
+    type: content
 title: Dentist in Bristol
 description: Complete Dental  Care
