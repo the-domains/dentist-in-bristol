@@ -12,5 +12,9 @@ color:
     - '#EEEFF7'
 layout_spectrum: 0.13952215039171278
 name: Dentist in Bristol
+navigation:
+  - name: contact us
+    url: www.ckdental.co.uk
+    type: external
 title: Dentist in Bristol
 description: Complete Dental  Care
