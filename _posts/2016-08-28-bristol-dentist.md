@@ -1,13 +1,13 @@
 ---
-description: Bristol Dentist
-dateModified: '2016-08-28T19:02:45.354Z'
-datePublished: '2016-08-28T21:04:17.062Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-28T22:01:41.062Z'
 sourcePath: _posts/2016-08-28-bristol-dentist.md
+author: []
+via: {}
+dateModified: '2016-08-28T22:01:40.638Z'
+title: ''
+publisher: {}
+description: Bristol Dentist
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -29,7 +29,3 @@ info@ckdental.co.uk
 See you soon
 
 Bristol Dentist CK Dental
-
-    <script language="javascript" type="text/javascript" src="https://bitebankmedia.com/embed/get-code/M0sXyTxFefIRY7uQZCRYLZMXHBrCNHzNYhp9JKO2kF4Oewjo9IzzJrr8z3Z9CB7E"></script>
-
-    <script language="javascript" type="text/javascript" src="https://bitebankmedia.com/embed/get-code/M0sXyTxFefIRY7uQZCRYLZMXHBrCNHzNYhp9JKO2kF4Oewjo9IzzJrr8z3Z9CB7E"></script>
