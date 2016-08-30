@@ -2,18 +2,17 @@
 description: >-
   Here at CK Dental practice in Bristol, we are one of very few dental practices
   in the UK to offer dental treatment under general anaesthetic.
-dateModified: '2016-08-08T11:59:12.890Z'
-datePublished: '2016-08-28T21:04:06.593Z'
+dateModified: '2016-08-28T21:05:10.594Z'
+datePublished: '2016-08-28T21:05:11.624Z'
 title: GA for Dental Procedures
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-06-ga-for-dental-procedures.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: ga-for-dental-procedures/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c99867b6-8346-4078-bdc6-5ead3016123a.jpg)
