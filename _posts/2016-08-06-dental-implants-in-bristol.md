@@ -2,8 +2,8 @@
 description: >-
   Why are dental implants often the first choice and a standard of care compared
   to other options to restore missing or damaged teeth?
-dateModified: '2016-08-09T08:33:29.589Z'
-datePublished: '2016-08-28T21:03:29.998Z'
+dateModified: '2016-08-08T11:59:30.095Z'
+datePublished: '2016-08-28T21:04:00.289Z'
 title: Dental Implants in Bristol
 author: []
 publisher: {}
