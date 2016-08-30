@@ -22,5 +22,8 @@ navigation:
   - name: GA for Dental Procedures
     id: 5e0a6112-ac02-4480-a0ea-417176bc94d1
     type: content
+  - name: Crowns and Bridges
+    id: 9460fc63-5ea5-4a47-9a8f-107f1207fe46
+    type: content
 title: Dentist in Bristol
 description: Complete Dental  Care
