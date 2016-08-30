@@ -1,22 +1,20 @@
 ---
-datePublished: '2016-08-28T21:00:59.943Z'
-sourcePath: _posts/2016-08-28-bristol-dentist.md
-author: []
-via: {}
-dateModified: '2016-08-28T21:00:59.015Z'
-title: ''
-publisher: {}
 description: Bristol Dentist
+dateModified: '2016-08-28T19:02:45.354Z'
+datePublished: '2016-08-28T21:04:17.062Z'
+title: ''
+author: []
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-08-28-bristol-dentist.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5100b477-73cc-431c-98e5-0d26d7a8a5e6.jpg)
-
-    
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c10943a8-2b38-4ae9-82df-972876cb3aa3.jpg)
 
 Bristol Dentist
 
@@ -31,3 +29,7 @@ info@ckdental.co.uk
 See you soon
 
 Bristol Dentist CK Dental
+
+    <script language="javascript" type="text/javascript" src="https://bitebankmedia.com/embed/get-code/M0sXyTxFefIRY7uQZCRYLZMXHBrCNHzNYhp9JKO2kF4Oewjo9IzzJrr8z3Z9CB7E"></script>
+
+    <script language="javascript" type="text/javascript" src="https://bitebankmedia.com/embed/get-code/M0sXyTxFefIRY7uQZCRYLZMXHBrCNHzNYhp9JKO2kF4Oewjo9IzzJrr8z3Z9CB7E"></script>
