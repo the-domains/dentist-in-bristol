@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-28T20:34:51.544Z'
+datePublished: '2016-08-28T20:58:41.119Z'
 sourcePath: _posts/2016-08-28-bristol-dentist.md
 author: []
 via: {}
-dateModified: '2016-08-28T20:34:51.056Z'
+dateModified: '2016-08-28T20:58:40.445Z'
 title: ''
 publisher: {}
 description: Bristol Dentist
@@ -14,7 +14,9 @@ inNav: false
 _type: MediaObject
 
 ---
-<script language="javascript" type="text/javascript" src="https://bitebankmedia.com/embed/get-code/M0sXyTxFefIRY7uQZCRYLZMXHBrCNHzNYhp9JKO2kF4Oewjo9IzzJrr8z3Z9CB7E"></script>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5100b477-73cc-431c-98e5-0d26d7a8a5e6.jpg)
+
+    <script language="javascript" type="text/javascript" src="https://bitebankmedia.com/embed/get-code/M0sXyTxFefIRY7uQZCRYLZMXHBrCNHzNYhp9JKO2kF4Oewjo9IzzJrr8z3Z9CB7E"></script>
 
 Bristol Dentist
 
