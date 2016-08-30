@@ -1,7 +1,7 @@
 ---
 description: Bristol Dentist
-dateModified: '2016-08-28T18:41:51.042Z'
-datePublished: '2016-08-28T18:42:48.975Z'
+dateModified: '2016-08-28T18:46:03.158Z'
+datePublished: '2016-08-28T18:48:02.386Z'
 title: ''
 author: []
 publisher: {}
@@ -14,6 +14,8 @@ inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0da635c2-58ce-43a2-b591-d8240b707ee3.jpg)
+
 Bristol Dentist
 
 Providing the full range of dental treatments to overcome any problems you might have or simply help you keeping your teeth healthy.
@@ -27,3 +29,5 @@ info@ckdental.co.uk
 See you soon
 
 Bristol Dentist CK Dental
+
+    <script language="javascript" type="text/javascript" src="https://bitebankmedia.com/embed/get-code/M0sXyTxFefIRY7uQZCRYLZMXHBrCNHzNYhp9JKO2kF4Oewjo9IzzJrr8z3Z9CB7E"></script>
