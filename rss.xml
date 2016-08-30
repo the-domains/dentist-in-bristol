@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dentist in Bristol]]></title>
+        <description><![CDATA[Dentist in Bristol]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Aug 2016 21:03:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cosmetic Dentist Bristol]]></title>
+            <description><![CDATA[<article><h1>Cosmetic Dentist Bristol</h1><p>Cosmetic dentistry in Bristol includes any techniques that restore or improve the appearance of your teeth.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d048a3bc-c717-4cea-8b55-78b13f14916b.jpg"></article>]]></description>
+            <link>http://www.ckdental.co.uk/wp-content/uploads/Porcelain-Veneers.mp4</link>
+            <guid isPermaLink="false">ebd00f30-3eb5-4967-b3af-7d8d889a5883</guid>
+            <pubDate>Sun, 28 Aug 2016 21:03:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
