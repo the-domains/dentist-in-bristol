@@ -1,13 +1,13 @@
 ---
-description: Bristol Dentist
-dateModified: '2016-08-28T18:46:03.158Z'
-datePublished: '2016-08-28T18:48:02.386Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-28T18:49:37.754Z'
 sourcePath: _posts/2016-08-28-bristol-dentist.md
+author: []
+via: {}
+dateModified: '2016-08-28T18:49:29.579Z'
+title: ''
+publisher: {}
+description: Bristol Dentist
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
