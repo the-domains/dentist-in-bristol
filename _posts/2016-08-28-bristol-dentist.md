@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-28T18:58:43.016Z'
+datePublished: '2016-08-28T19:00:25.670Z'
 sourcePath: _posts/2016-08-28-bristol-dentist.md
 author: []
 via: {}
-dateModified: '2016-08-28T18:58:42.424Z'
+dateModified: '2016-08-28T19:00:25.244Z'
 title: ''
 publisher: {}
 description: Bristol Dentist
