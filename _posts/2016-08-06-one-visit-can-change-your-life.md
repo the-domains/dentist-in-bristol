@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-08-29T21:21:28.052Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/354a52ba-2098-447e-86b2-24acba9bf050.jpg
+datePublished: '2016-08-29T21:25:07.158Z'
 author: []
 via: {}
-dateModified: '2016-08-08T11:59:31.948Z'
+dateModified: '2016-08-29T21:25:06.749Z'
 title: one visit can change your life
 publisher: {}
 description: Home
 sourcePath: _posts/2016-08-06-one-visit-can-change-your-life.md
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: one-visit-can-change-your-life/index.html
 _type: MediaObject
 
 ---
