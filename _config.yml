@@ -38,5 +38,8 @@ navigation:
   - name: Root Canal Treatment
     id: 6a0b25cd-2298-479e-ae5a-e37ae0c5a1a4
     type: content
+  - name: Contact us today
+    id: 0e08af1a-6016-4c41-a350-54dce369b84e
+    type: content
 title: Dentist in Bristol
 description: Complete Dental  Care
