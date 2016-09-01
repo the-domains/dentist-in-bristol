@@ -11,6 +11,10 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
 layout_spectrum: 0.13952215039171278
+author:
+  email: info@ckdental.co.uk
+  url: www.ckdental.co.uk
+  name: CK
 name: Dentist in Bristol
 navigation:
   - name: contact us
