@@ -17,9 +17,6 @@ author:
   name: CK
 name: Dentist in Bristol
 navigation:
-  - name: contact us
-    url: www.ckdental.co.uk
-    type: external
   - name: Dental Implants in Bristol
     id: c5411cc6-b26a-42ab-a538-8f15105bc9c8
     type: content
