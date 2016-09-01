@@ -1,3 +1,4 @@
+layout_spectrum: 0.13952215039171278
 typography_spectrum: 0.646909135626629
 color:
   brandStrength: 0.5797976304311305
@@ -5,41 +6,9 @@ color:
   saturation: 0.3055918619502336
   rhythmicContrast: 0.9563835100270808
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-layout_spectrum: 0.13952215039171278
-author:
-  email: info@ckdental.co.uk
-  url: www.ckdental.co.uk
-  name: CK
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Dentist in Bristol
-navigation:
-  - name: Dental Implants in Bristol
-    id: c5411cc6-b26a-42ab-a538-8f15105bc9c8
-    type: content
-  - name: GA for Dental Procedures
-    id: 5e0a6112-ac02-4480-a0ea-417176bc94d1
-    type: content
-  - name: Crowns and Bridges
-    id: 9460fc63-5ea5-4a47-9a8f-107f1207fe46
-    type: content
-  - name: Team
-    id: d9db5e07-06e0-4a14-97c2-0da1fd4e1832
-    type: content
-  - name: Bristol Clinic
-    url: 'http://ckdental.co.uk'
-    type: external
-  - name: Emergency dentist
-    id: fe9a5faa-bb41-4147-8eeb-c614771188df
-    type: content
-  - name: Root Canal Treatment
-    id: 6a0b25cd-2298-479e-ae5a-e37ae0c5a1a4
-    type: content
-  - name: Contact us today
-    id: 0e08af1a-6016-4c41-a350-54dce369b84e
-    type: content
-title: Dentist in Bristol
-description: Complete Dental  Care
