@@ -1,17 +1,16 @@
 ---
 description: 'Contact information:'
-dateModified: '2016-08-29T21:27:44.159Z'
-datePublished: '2016-08-29T21:28:03.561Z'
+dateModified: '2016-08-29T21:28:29.480Z'
+datePublished: '2016-08-29T21:28:30.021Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-29-contact-information.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: contact-information/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ae7c82f-380a-484c-bbef-8178e0557273.jpg)
