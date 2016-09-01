@@ -32,5 +32,8 @@ navigation:
   - name: Bristol Clinic
     url: 'http://ckdental.co.uk'
     type: external
+  - name: Emergency dentist
+    id: fe9a5faa-bb41-4147-8eeb-c614771188df
+    type: content
 title: Dentist in Bristol
 description: Complete Dental  Care
