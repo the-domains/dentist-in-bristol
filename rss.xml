@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Dentist in Bristol]]></title>
         <description><![CDATA[Dentist in Bristol]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://dentistinbristol.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 21:03:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Aug 2016 21:21:22 GMT</lastBuildDate>
+        <atom:link href="http://dentistinbristol.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Root Canal Treatment]]></title>
+            <description><![CDATA[<article><h1>Root Canal Treatment</h1><p>What is root canal treatment?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4c1fad9-2282-4c61-8a7b-d1addbe4b465.jpg"></article>]]></description>
+            <link>http://www.ckdental.co.uk/wp-content/uploads/root-canal-animation.mp4</link>
+            <guid isPermaLink="false">6a0b25cd-2298-479e-ae5a-e37ae0c5a1a4</guid>
+            <pubDate>Mon, 29 Aug 2016 21:21:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cosmetic Dentist Bristol]]></title>
             <description><![CDATA[<article><h1>Cosmetic Dentist Bristol</h1><p>Cosmetic dentistry in Bristol includes any techniques that restore or improve the appearance of your teeth.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d048a3bc-c717-4cea-8b55-78b13f14916b.jpg"></article>]]></description>
