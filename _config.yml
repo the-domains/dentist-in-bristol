@@ -35,5 +35,8 @@ navigation:
   - name: Emergency dentist
     id: fe9a5faa-bb41-4147-8eeb-c614771188df
     type: content
+  - name: Root Canal Treatment
+    id: 6a0b25cd-2298-479e-ae5a-e37ae0c5a1a4
+    type: content
 title: Dentist in Bristol
 description: Complete Dental  Care
