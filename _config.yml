@@ -29,8 +29,5 @@ navigation:
   - name: Team
     id: d9db5e07-06e0-4a14-97c2-0da1fd4e1832
     type: content
-  - name: Get in touch
-    url: 'http://ckdental.co.uk'
-    type: external
 title: Dentist in Bristol
 description: Complete Dental  Care
